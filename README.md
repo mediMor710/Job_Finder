@@ -173,5 +173,3 @@ The availability, number, and details of job offers depend on the API response, 
 - GitHub: (https://github.com/mediMor710)
 
 ## 📄 License
-
-No license has been specified yet. Add an appropriate open-source license if you intend to allow others to use, modify, or distribute this project.
